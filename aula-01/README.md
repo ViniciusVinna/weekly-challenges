@@ -27,14 +27,14 @@ Neste desafio você vai praticar os seus conhecimentos em:
 > 
 > Uma vez que o **nodejs** esteja instalado em seu computador, abra o terminal e execute o comando:
 >
-> 👉 **`npm install -g live-server`**  
+> 👉 **`npm install -g live-server`**
 > 
 > Após a instalação você deverá navegar até o diretório contendo seus arquivos HTML e executar o comando:
 >
 > 👉 **`live-server ./[nome-da-pasta ou arquivo html]`**
 
 ## Dicas:
-* Tente utilizar as tags semânticas do HTML5
+* Utilize as tags semânticas do HTML5 onde achar que seja necessário
 * Você pode fazer download do [Normalize CSS]* (https://necolas.github.io/normalize.css/) e utilizar no projeto para **"normalizar/resetar"** os estilos padrão dos navegadores.
 * 👁️ Inspecione os elementos do preview do [IMDB Codenation](https://aceleradev-react.netlify.com/aula-01/public/) e descubra como alguns efeitos foram executados.
 * ⚠️ [Fonte Utilizada - Montserrat](https://fonts.google.com/specimen/Montserrat)

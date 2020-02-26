@@ -43,9 +43,9 @@ Neste desafio você vai praticar os seus conhecimentos em:
 
 ## Screenshot de Referência
 ### Mobile:
-![](../screenshots/screenshot-aula-02-mobile.png | width=320)
+![](../screenshots/screenshot-aula-02-mobile.png)
 
-### Mobile:
+### Desktop:
 ![](../screenshots/screenshot-aula-02-desktop.png)
 
 

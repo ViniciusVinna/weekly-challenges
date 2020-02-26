@@ -11,6 +11,8 @@ O desafio é desenvolver a página inicial de um site de avaliação de filmes (
 Neste desafio você vai praticar os seus conhecimentos em:  
 - **HTML5**
 - **CSS3**
+- **Vincular fontes externas** (Google Fonts)
+- **Vincular fontes de ícones** (Fontawesome)
 
 > **Observações:**
 > - As imagens estão disponíveis na pasta **assets**
@@ -24,19 +26,23 @@ Neste desafio você vai praticar os seus conhecimentos em:
 > O Live server é um módulo NPM que permite servir localmente páginas HTML, sem a necessidade de instalar plugins adicionais no navegador, ou em seu editor.
 > 
 > Uma vez que o **nodejs** esteja instalado em seu computador, abra o terminal e execute o comando:
+>
 > 👉 **`npm install -g live-server`**  
 > 
 > Após a instalação você deverá navegar até o diretório contendo seus arquivos HTML e executar o comando:
+>
 > 👉 **`live-server ./[nome-da-pasta ou arquivo html]`**
 
 ## Dicas:
 * Tente utilizar as tags semânticas do HTML5
 * Você pode fazer download do [Normalize CSS]* (https://necolas.github.io/normalize.css/) e utilizar no projeto para **"normalizar/resetar"** os estilos padrão dos navegadores.
 * 👁️ Inspecione os elementos do preview do [IMDB Codenation](https://aceleradev-react.netlify.com/aula-01/public/) e descubra como alguns efeitos foram executados.
+* ⚠️ [Fonte Utilizada - Montserrat](https://fonts.google.com/specimen/Montserrat)
+* ⚠️ [Ícones utilizados - Fontawesome](https://fonts.google.com/specimen/Montserrat)
 * 📜 [Guia HTML5](https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf)
 * 📜 [Guia CSS3](https://www.w3c.br/pub/Materiais/PublicacoesW3C/guia-css-w3cbr.pdf)
 
-## Screenshot de Referência:
+## Layout:
 
 ![](../screenshots/screenshot-aula-01.png)
 

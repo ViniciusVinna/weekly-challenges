@@ -29,7 +29,6 @@ Neste desafio você vai praticar os seus conhecimentos em:
 > Após a instalação você deverá navegar até o diretório contendo seus arquivos HTML e executar o comando:
 > 👉 **`live-server ./[nome-da-pasta ou arquivo html]`**
 
-
 ## Dicas:
 * Tente utilizar as tags semânticas do HTML5
 * Você pode fazer download do [Normalize CSS]* (https://necolas.github.io/normalize.css/) e utilizar no projeto para **"normalizar/resetar"** os estilos padrão dos navegadores.
@@ -39,4 +38,5 @@ Neste desafio você vai praticar os seus conhecimentos em:
 
 ## Screenshot de Referência:
 
+![](../screenshots/screenshot-aula-01.png)
 

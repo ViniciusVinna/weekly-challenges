@@ -1,15 +1,16 @@
 # Instagram Rest API CRUD
 
-#### 👨‍👧‍👦 Pegar usuários / usuário:
-| Resource | Method | Endpoint                                                    | Status Code | Response        |
-|:--------:|:------:|-------------------------------------------------------------|-------------|-----------------|
-| Users    |   GET  | http://5e7d0266a917d70016684219.mockapi.io/api/v1/users     |     200     | Array of object |
-| User     |   GET  | http://5e7d0266a917d70016684219.mockapi.io/api/v1/users/:id |     200     | Object          |
+## Usuários
+### 👨‍👧‍👦 Pegar usuários / usuário:
+| Resource | Method | Endpoint                                                     | Status Code | Response        |
+|:--------:|:------:|--------------------------------------------------------------|-------------|-----------------|
+| Users    |   GET  | https://5e7d0266a917d70016684219.mockapi.io/api/v1/users     |     200     | Array of object |
+| User     |   GET  | https://5e7d0266a917d70016684219.mockapi.io/api/v1/users/:id |     200     | Object          |
 
 #### 👶 Criar usuário:
-| Resource | Method | Endpoint                                                | Status Code |    Response    |
-|:--------:|:------:|---------------------------------------------------------|:-----------:|:--------------:|
-| User     |  POST  | http://5e7d0266a917d70016684219.mockapi.io/api/v1/users |     201     | Created object |
+| Resource | Method | Endpoint                                                 | Status Code |    Response    |
+|:--------:|:------:|----------------------------------------------------------|:-----------:|:--------------:|
+| User     |  POST  | https://5e7d0266a917d70016684219.mockapi.io/api/v1/users |     201     | Created object |
 
 > Estrutura do Body (payload):
 ```json
@@ -21,10 +22,10 @@
 }
 ```
 
-#### 💇‍♂️ Atualizar usuário:
-| Resource | Method | Endpoint                                                   | Status Code |    Response    |
-|:--------:|:------:|------------------------------------------------------------|:-----------:|:--------------:|
-| User     |  PUT   | http://5e7d0266a917d70016684219.mockapi.io/api/v1/users:id |     200     | Created object |
+### 💇‍♂️ Atualizar usuário:
+| Resource | Method | Endpoint                                                    | Status Code |    Response    |
+|:--------:|:------:|-------------------------------------------------------------|:-----------:|:--------------:|
+| User     |  PUT   | https://5e7d0266a917d70016684219.mockapi.io/api/v1/users:id |     200     | Created object |
 
 > Estrutura do Body (payload):
 ```json
@@ -36,7 +37,14 @@
 }
 ```
 
-#### 💀 Excluir usuário:
-| Resource |   Method  | Endpoint                                                   | Status Code |    Response    |
-|:--------:|:---------:|------------------------------------------------------------|:-----------:|:--------------:|
-| User     |  DELETE   | http://5e7d0266a917d70016684219.mockapi.io/api/v1/users:id |     200     | Deleted object |
+### 💀 Excluir usuário:
+| Resource |   Method  | Endpoint                                                    | Status Code |    Response    |
+|:--------:|:---------:|-------------------------------------------------------------|:-----------:|:--------------:|
+| User     |  DELETE   | https://5e7d0266a917d70016684219.mockapi.io/api/v1/users:id |     200     | Deleted object |
+
+## Posts
+### 👨‍👧‍👦 Pegar posts / post:
+| Resource | Method | Endpoint                                                               | Status Code | Response        |
+|:--------:|:------:|------------------------------------------------------------------------|-------------|-----------------|
+| POSTS    |   GET  | https://5e7d0266a917d70016684219.mockapi.io/api/v1/users/:id/posts     |     200     | Array of object |
+| POST     |   GET  | https://5e7d0266a917d70016684219.mockapi.io/api/v1/users/:id/posts/:id |     200     | Object          |

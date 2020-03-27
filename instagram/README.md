@@ -1,4 +1,4 @@
-# Instagram Rest API CRUD
+# ACELERADEV: INSTAGRAM CRUD - REST API
 
 ## 👩‍👧‍👦 USUÁRIOS
 | Resource | Method    | Endpoint                                                    | Status Code |    Response     |
@@ -55,28 +55,21 @@
 }
 ```
 
-## Query Params
+## QUERY PARAMS
 > Adicione os seguintes **queries** às requisições `GET`:
 > ### Paginação
 > `?page=1&limit=10` ou `?p=1&l=10`
 >
 > ### Ordenação
+> `?sortBy=createdAt&order=desc`
+> também é possível utilizar `sortby`, `orderBy`, ou `orderby`
+> OBS: se você omitir o parâmetro `order`, a ordenação padrão será 'asc'
+>
+> ### Busca
+> `?search=blog1` ou `?filter=blog1`
 
-## Ordenação
-Add query params to GET requests:
-
-/blogs?sortBy=createdAt&order=desc
-Alternatively you can use sortby, orderBy, or orderby
-Note: if you omit order parameter, the default order will be 'asc'
-SEARCHING
-Add query params to GET requests:
-
-/blogs?search=blog1
-or /blogs?filter=blog1
-RETURN CODES AND ERRORS
-Mock APIs can return the following HTTP codes which needs to be checked by the end user:
-
-200 - OK
-201 - OK
-404 - Not found
-500 - Server error
+## CÓDIGOS DE RETORNO E ERROS
+* `200` - OK
+* `201` - OK
+* `404` - Not found
+* `500` - Server error

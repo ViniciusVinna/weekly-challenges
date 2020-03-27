@@ -43,7 +43,7 @@
 | User     |  DELETE   | https://5e7d0266a917d70016684219.mockapi.io/api/v1/users:id |     200     | Deleted object |
 
 ## Posts
-### 👨‍👧‍👦 Pegar posts / post:
+### 💬 Pegar posts / post:
 | Resource | Method | Endpoint                                                               | Status Code | Response        |
 |:--------:|:------:|------------------------------------------------------------------------|-------------|-----------------|
 | POSTS    |   GET  | https://5e7d0266a917d70016684219.mockapi.io/api/v1/users/:id/posts     |     200     | Array of object |

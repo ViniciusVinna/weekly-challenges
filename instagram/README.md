@@ -1,13 +1,13 @@
 # ACELERADEV: INSTAGRAM CRUD - REST API
 
 ## 👩‍👧‍👦 USUÁRIOS
-| Resource | Method    | Endpoint                                                    | Status Code |    Response     |
-|:--------:|:---------:|-------------------------------------------------------------|:-----------:|:---------------:|
-| Users    |  GET     | https://5e7d0266a917d70016684219.mockapi.io/api/v1/users     |     200     | Array of Object |
-| User     |  GET     | https://5e7d0266a917d70016684219.mockapi.io/api/v1/users/:id |     200     | Object          |
-| User     |  POST     | https://5e7d0266a917d70016684219.mockapi.io/api/v1/users    |     201     | Created object  |
-| User     |  PUT      | https://5e7d0266a917d70016684219.mockapi.io/api/v1/users:id |     200     | Updated object  |
-| User     |  DELETE   | https://5e7d0266a917d70016684219.mockapi.io/api/v1/users:id |     200     | Deleted object  |
+| Resource | Method    | Endpoint                                                     | Status Code |    Response     |
+|:--------:|:---------:|--------------------------------------------------------------|:-----------:|:---------------:|
+| Users    |  GET     | https://5e7d0266a917d70016684219.mockapi.io/api/v1/users      |     200     | Array of Object |
+| User     |  GET     | https://5e7d0266a917d70016684219.mockapi.io/api/v1/users/:id  |     200     | Object          |
+| User     |  POST     | https://5e7d0266a917d70016684219.mockapi.io/api/v1/users     |     201     | Created object  |
+| User     |  PUT      | https://5e7d0266a917d70016684219.mockapi.io/api/v1/users/:id |     200     | Updated object  |
+| User     |  DELETE   | https://5e7d0266a917d70016684219.mockapi.io/api/v1/users/:id |     200     | Deleted object  |
 
 > Body (POST / PUT):
 ```json

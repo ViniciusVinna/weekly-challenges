@@ -44,5 +44,5 @@ Neste desafio você vai praticar os seus conhecimentos em:
 
 ## Layout:
 
-![](../screenshots/screenshot-aula-01.png)
+![](../assets/screenshots/screenshot-aula-01.png)
 

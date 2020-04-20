@@ -1,0 +1,24 @@
+{
+  "name": "weekly-challenges",
+  "version": "1.0.0",
+  "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/3a784a06-fe00-420a-bcf1-8f6f44fe945c/deploy-status)](https://app.netlify.com/sites/aceleradev-react/deploys)",
+  "author": "Vinícius Ribeiro <https://www.linkedin.com/in/viniciusvinna/>",
+  "homepage": "https://github.com/ViniciusVinna/weekly-challenges#readme",
+  "main": "deploy.js",
+  "bugs": {
+    "url": "https://github.com/ViniciusVinna/weekly-challenges/issues"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniciusVinna/weekly-challenges.git"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "fs-extra": "^9.0.0"
+  },
+  "scripts": {
+    "buildAll": "node deploy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

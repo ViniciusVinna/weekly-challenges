@@ -43,10 +43,10 @@ Neste desafio você vai praticar os seus conhecimentos em:
 
 ## Screenshot de Referência
 ### Mobile:
-![](../screenshots/screenshot-aula-02-mobile.png)
+![](../assets/screenshots/screenshot-aula-02-mobile.png)
 
 ### Desktop:
-![](../screenshots/screenshot-aula-02-desktop.png)
+![](../assets/screenshots/screenshot-aula-02-desktop.png)
 
 
 

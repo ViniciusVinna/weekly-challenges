@@ -9,11 +9,11 @@
 
 ## Lista de desafios React:
 * Instagram SPA Challenge: ▶️ [https://viniciusvinna.netlify.app/react-instagram](https://viniciusvinna.netlify.app/react-instagram)
-* Contacts SPA React: ▶️ [https://viniciusvinna.netlify.app/](https://viniciusvinna.netlify.app/)
+* Contacts SPA React: ▶️ [https://viniciusvinna.netlify.app/react-contacts](https://viniciusvinna.netlify.app/react-contacts)
 
 
 ## Projeto Final React (Referência):
-* Fashionista SPA: ▶️ [https://viniciusvinna.netlify.app/](https://viniciusvinna.netlify.app/)
+* Fashionista SPA: ▶️ [https://viniciusvinna.netlify.app/react-fashionista](https://viniciusvinna.netlify.app/react-fashionista)
 
 
 ## Projeto Final - REST API:

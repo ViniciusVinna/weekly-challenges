@@ -1,0 +1,45 @@
+{
+    "name": "Instadev - React SPA parte 2",
+    "description": "O desafio desta semana e da próxima será continuar o desenvolvimento do **Instagram** em React, consumindo uma Rest API",
+    "topic": [
+        "Fetch API",
+        "JS Funcional",
+        "Modularização",
+        "Presentational Components",
+        "Container Components",
+        "Rails-Style Structure",
+        "Module Index",
+        "Rails-Style Structure",
+        "React Hooks",
+        "React Testing Library",
+        "React"
+    ],
+    "slug": "react-16",
+    "test_cmd": ["node --version"],
+    "test_results_files": [
+        "junit.xml"
+    ],
+    "submission_files":["src/*"],
+    "private_files": ["src/__tests__/submit.test.js", "src/__tests__/mocks"],
+    "submission_cmd": ["npm run submit -- --watchAll=false"],
+    "created_by": [
+        {
+            "name": "Vinícius Ribeiro Fernandes",
+            "picture": "https://i.imgur.com/cSJYwXf.png",
+            "linkedin": "https://www.linkedin.com/in/viniciusvinna/",
+            "github": "https://github.com/viniciusvinna"
+        }
+    ],
+    "content": [
+        {
+            "name": "Live Server",
+            "description": "Package do Live Server",
+            "url": "https://www.npmjs.com/package/live-server"
+        },
+        {
+            "name": "Download Node",
+            "description": "Download e Instalação do NodeJS",
+            "url": "https://nodejs.org/en/download/"
+        }
+    ]
+}

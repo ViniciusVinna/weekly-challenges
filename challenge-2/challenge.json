@@ -1,0 +1,33 @@
+{
+    "name": "Instagram Mobile First",
+    "description": "O desafio é desenvolver a página inicial de um site de avaliação de filmes (IMDB - Internet Movies Database) utilizando apenas **HTML5** e CSS3. O README na pasta do projeto contém todas as instruções necessárias",
+    "topic":["Atomic Design", "BEM CSS","HTML5", "CSS3","Google Fonts", "Fontawesome"],
+    "slug": "react-12",
+    "test_cmd": ["node --version"],
+    "test_results_files": [
+        "output.json"
+    ],
+    "submission_files":["public/*"],
+    "private_files": ["submit.js"],
+    "submission_cmd": ["node submit.js > output.json"],
+    "created_by": [
+        {
+            "name": "Vinícius Ribeiro Fernandes",
+            "picture": "https://i.imgur.com/cSJYwXf.png",
+            "linkedin": "https://www.linkedin.com/in/viniciusvinna/",
+            "github": "https://github.com/viniciusvinna"
+        }
+    ],
+    "content": [
+        {
+            "name": "Live Server",
+            "description": "Package do Live Server",
+            "url": "https://www.npmjs.com/package/live-server"
+        },
+        {
+            "name": "Download Node",
+            "description": "Download e Instalação do NodeJS",
+            "url": "https://nodejs.org/en/download/"
+        }
+    ]
+}

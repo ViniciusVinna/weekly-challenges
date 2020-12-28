@@ -1,0 +1,33 @@
+{
+    "name": "Instadev - React SPA parte 1",
+    "description": "O desafio desta semana e da próxima será desenvolver um `SPA (Single Page Application)` mobile-first do **Instagram** em React, consumindo uma Rest API",
+    "topic":["React", "Modularização","Fetch API", "JS"],
+    "slug": "react-15",
+    "test_cmd": ["node --version"],
+    "test_results_files": [
+        "junit.xml"
+    ],
+    "submission_files":["src/*"],
+    "private_files": ["src/__tests__/submit.test.js", "src/__tests__/mocks"],
+    "submission_cmd": ["npm run submit -- --watchAll=false"],
+    "created_by": [
+        {
+            "name": "Vinícius Ribeiro Fernandes",
+            "picture": "https://i.imgur.com/cSJYwXf.png",
+            "linkedin": "https://www.linkedin.com/in/viniciusvinna/",
+            "github": "https://github.com/viniciusvinna"
+        }
+    ],
+    "content": [
+        {
+            "name": "Live Server",
+            "description": "Package do Live Server",
+            "url": "https://www.npmjs.com/package/live-server"
+        },
+        {
+            "name": "Download Node",
+            "description": "Download e Instalação do NodeJS",
+            "url": "https://nodejs.org/en/download/"
+        }
+    ]
+}

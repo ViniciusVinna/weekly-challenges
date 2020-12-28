@@ -1,0 +1,33 @@
+{
+    "name": "SPA: App de Contatos",
+    "description": "O desafio é desenvolver um `SPA (Single Page Application)` de uma lista de contatos em React com funcionalidades de busca em tempo real e filtros de acordo com o README.md do projeto.",
+    "topic":["React", "Modularização","Fetch API", "JS"],
+    "slug": "react-13",
+    "test_cmd": ["node --version"],
+    "test_results_files": [
+        "junit.xml"
+    ],
+    "submission_files":["src/*"],
+    "private_files": ["submit.js"],
+    "submission_cmd": ["npm run submit -- --watchAll=false"],
+    "created_by": [
+        {
+            "name": "Vinícius Ribeiro Fernandes",
+            "picture": "https://i.imgur.com/cSJYwXf.png",
+            "linkedin": "https://www.linkedin.com/in/viniciusvinna/",
+            "github": "https://github.com/viniciusvinna"
+        }
+    ],
+    "content": [
+        {
+            "name": "Live Server",
+            "description": "Package do Live Server",
+            "url": "https://www.npmjs.com/package/live-server"
+        },
+        {
+            "name": "Download Node",
+            "description": "Download e Instalação do NodeJS",
+            "url": "https://nodejs.org/en/download/"
+        }
+    ]
+}

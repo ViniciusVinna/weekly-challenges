@@ -1,0 +1,41 @@
+{
+    "name": "React / Redux Spotify Pocket SPA",
+    "description": "Neste último desafio você aplicará todo o conhecimento adquirido durante o curso e terá que desenvolver uma versão _**pocket**_ do Spotify, integrada a Web API oficial, utilizando `fluxo implícito de concessão` (Implicit Grant Flow) para realizar a autenticação do usuário, permite que ele acesse rotas privadas dentro da aplicação.",
+    "topic": [
+	  "Fetch API",
+	  "JS Funcional",
+	  "Modularização",
+	  "Presentational e Container Components",
+	  "Rails-Style Structure",
+	  "React Hooks",
+	  "React Testing Library",
+	  "React",
+	  "React Router Dom",
+	  "Rotas Privadas",
+	  "Redux",
+	  "Redux Persist"
+    ],
+    "slug": "react-17",
+    "test_cmd": ["node --version"],
+    "test_results_files": [
+        "junit.xml"
+    ],
+    "submission_files":["src/*"],
+    "private_files": ["src/__tests__/validation.spec.js", "src/__tests__/mocks"],
+    "submission_cmd": ["npm run submit -- --watchAll=false"],
+    "created_by": [
+        {
+            "name": "Vinícius Ribeiro Fernandes",
+            "picture": "https://i.imgur.com/cSJYwXf.png",
+            "linkedin": "https://www.linkedin.com/in/viniciusvinna/",
+            "github": "https://github.com/viniciusvinna"
+        }
+    ],
+    "content": [
+        {
+            "name": "Download Node",
+            "description": "Download e Instalação do NodeJS",
+            "url": "https://nodejs.org/en/download/"
+        }
+    ]
+}
